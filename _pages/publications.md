@@ -13,8 +13,25 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
+## International Journals
 <div class="publications">
+{% bibliography --query @article[keywords=intl_journal] %}
+</div>
+<br>
 
-{% bibliography %}
+## International Conferences
+<div class="publications">
+{% bibliography --query @inproceedings[keywords=intl_conf] %}
+</div>
+<br>
 
+## Domestic Journals
+<div class="publications">
+{% bibliography --query @article[keywords=dom_journal] %}
+</div>
+<br>
+
+## Domestic Conferences
+<div class="publications">
+{% bibliography --query @inproceedings[keywords=dom_conf] %}
 </div>

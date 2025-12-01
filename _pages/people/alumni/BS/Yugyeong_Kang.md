@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: YuGyeong Kang
+member_name: Yugyeong Kang
 period: 2015 – 2020
 degree: B.S
 education: |

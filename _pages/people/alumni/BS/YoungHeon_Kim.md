@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: YoungHeon Kim
+member_name: Youngheon Kim
 period: 2015 – 2020
 degree: B.S
 education: |

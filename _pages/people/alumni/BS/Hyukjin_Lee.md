@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: HyukJin Lee
+member_name: Hyukjin Lee
 period: 2012 – 2017
 degree: B.S
 education: |

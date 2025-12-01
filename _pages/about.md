@@ -57,3 +57,6 @@ CGV Lab develops innovative technologies across a variety of domains by leveragi
 <div class="map-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-top: 20px;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.600683179261!2d129.38626111291163!3d36.10322097233931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35671cb090fb4f6b%3A0xf40ec48f8fe9f1a2!2z6rK97IOB67aB64-EIO2PrO2VreyLnCDrtoHqtawg7Z2l7ZW07J2NIO2VnOuPmeuhnCA1NTg!5e0!3m2!1sko!2skr!4v1764399715555!5m2!1sko!2skr" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<!-- <hr style="border: 0; height: 2px; background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.2), rgba(0,0,0,0)); margin: 50px 0;"> -->
+---

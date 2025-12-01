@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: KiHyang Kim
+member_name: Kihyang Kim
 period: 2013 – 2017
 degree: B.S
 education: |

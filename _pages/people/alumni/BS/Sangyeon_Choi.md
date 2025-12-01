@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: SangYeon Choi
+member_name: Sangyeon Choi
 period: 2015 – 2018
 degree: B.S
 education: |

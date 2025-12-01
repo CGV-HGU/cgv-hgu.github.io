@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Ji Won Moon
+member_name: Jiwon Moon
 period: Mar 2019 – Aug 2020
 degree: M.S
 education: |

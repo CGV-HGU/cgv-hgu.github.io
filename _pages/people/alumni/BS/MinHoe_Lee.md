@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: MinHoe Lee
+member_name: Minhoe Lee
 period: Mar 2015 – 2020
 degree: B.S
 education: |

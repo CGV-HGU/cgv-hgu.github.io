@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: SungTae Ahn
+member_name: Sungtae Ahn
 period: 2013 – 2018
 degree: B.S
 education: |

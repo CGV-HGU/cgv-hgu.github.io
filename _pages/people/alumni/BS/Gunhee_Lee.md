@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: GunHee Lee
+member_name: Gunhee Lee
 period: 2011 – 2017
 degree: B.S
 education: |

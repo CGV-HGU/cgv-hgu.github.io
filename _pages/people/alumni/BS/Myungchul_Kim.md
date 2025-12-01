@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Myung Chul Kim
+member_name: Myungchul Kim
 period: Mar 2013 – 2019
 degree: B.S
 education: |

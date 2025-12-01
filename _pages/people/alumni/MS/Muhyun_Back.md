@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Mu Hyun Back
+member_name: Muhyun Back
 period: Mar 2019 – Aug 2021
 degree: M.S
 education: |

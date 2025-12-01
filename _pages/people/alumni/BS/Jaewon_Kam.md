@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: JaeWon Kam
+member_name: Jaewon Kam
 period: Mar 2014 – 2020
 degree: B.S
 education: |

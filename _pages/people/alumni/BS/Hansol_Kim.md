@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: HanSol Kim
+member_name: Hansol Kim
 period: Mar 2012 – 2019
 degree: B.S
 education: |

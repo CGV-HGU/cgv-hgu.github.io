@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: HyunSuk Jeong
+member_name: Hyunsuk Jeong
 period: 2013 – 2020
 degree: B.S
 education: |

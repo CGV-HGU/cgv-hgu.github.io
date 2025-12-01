@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Sang Jun Lee
+member_name: Sangjun Lee
 period: Aug 2017 – 2020
 degree: M.S
 education: |

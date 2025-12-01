@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: SuBin Kim
+member_name: Subin Kim
 period: 2014 – 2020
 degree: B.S
 education: |

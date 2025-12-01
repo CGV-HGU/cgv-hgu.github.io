@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Hyun Min Han
+member_name: Hyunmin Han
 period: Mar 2020 – Feb 2022
 degree: M.S
 education: |

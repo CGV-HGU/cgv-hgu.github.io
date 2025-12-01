@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: SeongJin Lee
+member_name: Seongjin Lee
 period: 2011 – 2019
 degree: B.S
 education: |

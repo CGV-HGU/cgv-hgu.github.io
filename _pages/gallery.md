@@ -63,7 +63,6 @@ nav_order: 7
 </div>
 <hr>
 
-
 <style>
 .gallery-section {
   max-width: 700px;

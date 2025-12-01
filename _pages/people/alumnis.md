@@ -57,6 +57,7 @@ nav: false
     {% else %}
       <p class="no-members">No M.S alumni yet.</p>
     {% endif %}
+
   </div>
 
   <!-- BS Alumni -->
@@ -94,6 +95,7 @@ nav: false
     {% else %}
       <p class="no-members">No B.S alumni yet.</p>
     {% endif %}
+
   </div>
 
 </div>

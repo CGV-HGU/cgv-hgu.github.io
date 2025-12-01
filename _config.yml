@@ -4,11 +4,11 @@
 
 title: CGV Lab # the website title (if blank, full name will be used instead)
 first_name: CGV
-middle_name: 
+middle_name:
 last_name: Lab
-contact_note: 
+contact_note:
 description: An Official Website of CGV Lab @ Handong Global University.
-footer_text: 
+footer_text:
 keywords: computer-vision, computer-graphics, machine-learning, deep-learning, robotics, augmented-reality, virtual-reality # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -118,8 +118,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  # - name: 
-  #   rss_url: 
+  # - name:
+  #   rss_url:
 
 # -----------------------------------------------------------------------------
 # Newsletter

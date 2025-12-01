@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Members
+title: members
 permalink: /people/
 description: CGV Lab Members
 nav: true
-nav_order: 5
+nav_order: 6
 dropdown: true
 children:
   - title: Professor

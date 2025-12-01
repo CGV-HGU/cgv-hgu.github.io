@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: gallery
 permalink: /gallery/
 description: CGV Lab photo gallery by year & event.
 nav: true

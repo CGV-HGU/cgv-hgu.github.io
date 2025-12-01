@@ -1,0 +1,9 @@
+- title: People
+  url: /people/
+  sublinks:
+    - title: Professor
+      url: /people/
+    - title: Students
+      url: /people/students/
+    - title: Alumni
+      url: /people/alumni/

@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: JongHoon_Won
+member_name: Jonghoon_Won
 period: 2022 – present
 degree: B.S
 education: B.S in Computer Science and Engineering, HGU

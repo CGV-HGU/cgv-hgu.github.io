@@ -1,8 +1,8 @@
 ---
 layout: page
-title: members
+title: Professor
 permalink: /people/
-description: CGV Lab Members
+description: CGV Lab Supervisor
 nav: true
 nav_order: 6
 dropdown: true

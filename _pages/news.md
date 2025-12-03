@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-description: News from our lab.
+description: News from CGV Lab.
 nav: true
 nav_order: 3
 ---

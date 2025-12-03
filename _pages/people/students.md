@@ -2,7 +2,7 @@
 layout: page
 title: Students
 permalink: /people/students/
-description: Current Students in CGV Lab
+description: Current Students in CGV Lab.
 nav: false
 ---
 

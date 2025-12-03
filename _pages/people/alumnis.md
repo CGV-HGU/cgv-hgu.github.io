@@ -2,7 +2,7 @@
 layout: page
 title: Alumni
 permalink: /people/alumni/
-description: Alumni of CGV Lab
+description: Alumni of CGV Lab.
 nav: false
 ---
 

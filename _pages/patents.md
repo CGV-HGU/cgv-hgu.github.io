@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: Patents from our lab.
+description: Patents from CGV Lab.
 nav: true
 nav_order: 4
 ---

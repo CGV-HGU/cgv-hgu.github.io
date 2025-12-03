@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications from our lab.
+description: Publications from CGV Lab.
 nav: true
 nav_order: 5
 ---

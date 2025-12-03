@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-news",
           title: "news",
-          description: "News from our lab.",
+          description: "News from CGV Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-patents",
           title: "patents",
-          description: "Patents from our lab.",
+          description: "Patents from CGV Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/patents/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Publications from our lab.",
+          description: "Publications from CGV Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -35,7 +35,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/people/professor/";
               },
             },{id: "dropdown-students",
               title: "Students",

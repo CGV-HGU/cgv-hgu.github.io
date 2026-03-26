@@ -10,6 +10,6 @@ education: |
 email: hyeonwoo.gu@handong.edu
 profile:
   image: /assets/img/members/MS/Hyeonwoo_Gu.jpg
-order: 2
+order: 1
 nav: false
 ---

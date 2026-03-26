@@ -10,6 +10,6 @@ education: |
 email: gunmin.yu@handong.edu
 profile:
   image: /assets/img/members/MS/Gunmin_Yu.jpg
-order: 3
+order: 1
 nav: false
 ---

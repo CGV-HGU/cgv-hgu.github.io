@@ -1,7 +1,7 @@
 ---
 layout: page
 member_name: Seonghwan Shim
-period: 2021 – present
+period: 2026 – present
 degree: M.S
 education: 
   M.S in Dept. of Information Technology, HGU  

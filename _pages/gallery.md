@@ -9,6 +9,9 @@ nav_order: 7
 
 <div class="gallery-section">
 
+<!-- 2025 -->
+
+
 <!-- 2024 -->
 <h2 class="gallery-year">2024</h2>
 <div class="gallery-event">

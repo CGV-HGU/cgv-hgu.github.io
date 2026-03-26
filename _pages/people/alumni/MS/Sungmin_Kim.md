@@ -9,8 +9,8 @@ education: |
   B.S in Computer Science and Engineering, HGU
   Mar 2019 – Aug 2023 
 email: win27@handong.ac.kr
-profile:
-  image: /assets/img/members/MS/Sungmin_Kim.jpeg
+# profile:
+#   image: /assets/img/members/MS/Sungmin_Kim.jpeg
 order: 1
 nav: false
 ---

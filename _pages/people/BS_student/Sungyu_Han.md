@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: tjsrb439@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Sungyu_Han.jpg
-order: 4
+order: 3
 nav: false
 ---

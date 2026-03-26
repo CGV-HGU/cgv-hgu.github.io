@@ -16,7 +16,7 @@ nav_order: 7
   <img src="/assets/img/gallery/2025_first_exercise.jpg" alt="2025 First Exercise" class="gallery-photo">
 </div>
 <div class="gallery-event">
-  <h3 class="gallery-title">2025-2 professor's performance</h3>
+  <h3 class="gallery-title">2025-2 Professor's Performance</h3>
   <img src="/assets/img/gallery/2025_professor_performance.jpg" alt="2025 Professor's Performance" class="gallery-photo">
 </div>
 <hr>
@@ -36,7 +36,7 @@ nav_order: 7
   <img src="/assets/img/gallery/2023_bbq_party.jpg" alt="2023 BBQ PARTY" class="gallery-photo">
 </div>
 <div class="gallery-event">
-  <h3 class="gallery-title">2023-2 professor's performance</h3>
+  <h3 class="gallery-title">2023-2 Professor's Performance</h3>
   <img src="/assets/img/gallery/2023_professor_performance.jpg" alt="2023 Professor's Performance" class="gallery-photo">
 </div>
 <hr>

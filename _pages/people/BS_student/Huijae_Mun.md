@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: 22000249@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Huijae_Mun.jpg
-order: 4
+order: 2
 nav: false
 ---

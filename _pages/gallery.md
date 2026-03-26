@@ -10,7 +10,16 @@ nav_order: 7
 <div class="gallery-section">
 
 <!-- 2025 -->
-
+<h2 class="gallery-year">2025</h2>
+<div class="gallery-event">
+  <h3 class="gallery-title">2023-2 BBQ PARTY</h3>
+  <img src="/assets/img/gallery/2025_first_exercise.jpg" alt="2025 First Exercise.jpg" class="gallery-photo">
+</div>
+<div class="gallery-event">
+  <h3 class="gallery-title">2023-2 professor's performance</h3>
+  <img src="/assets/img/gallery/2025_professor_performance.jpg" alt="2025 Professor's Performance" class="gallery-photo">
+</div>
+<hr>
 
 <!-- 2024 -->
 <h2 class="gallery-year">2024</h2>

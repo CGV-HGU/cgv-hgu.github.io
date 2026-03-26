@@ -12,8 +12,8 @@ nav_order: 7
 <!-- 2025 -->
 <h2 class="gallery-year">2025</h2>
 <div class="gallery-event">
-  <h3 class="gallery-title">2025-2 First Exercise</h3>
-  <img src="/assets/img/gallery/2025_first_exercise.jpg" alt="2025 First Exercise" class="gallery-photo">
+  <h3 class="gallery-title">2025-2 First Running</h3>
+  <img src="/assets/img/gallery/2025_first_running.jpg" alt="2025 First Running" class="gallery-photo">
 </div>
 <div class="gallery-event">
   <h3 class="gallery-title">2025-2 Professor's Performance</h3>

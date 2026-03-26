@@ -11,7 +11,7 @@ description: An Official Website of CGV Lab @ Handong Global University.
 footer_text:
 keywords: computer-vision, computer-graphics, machine-learning, deep-learning, robotics, augmented-reality, virtual-reality # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: CGV_LOGO.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://cgv-hgu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: syp0728@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Seoyoun_Park.jpg
-order: 3
+order: 7
 nav: false
 ---

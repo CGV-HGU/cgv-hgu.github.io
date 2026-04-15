@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: rladygks0412@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Yohan_Kim.jpg
-order: 4
+order: 3
 nav: false
 ---

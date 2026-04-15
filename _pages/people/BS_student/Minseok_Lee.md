@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: glen@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Minseok_Lee.jpg
-order: 2
+order: 4
 nav: false
 ---

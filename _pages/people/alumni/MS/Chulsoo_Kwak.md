@@ -8,6 +8,6 @@ education: |
   Mar 2015 – Aug 2021  
   B.S in Computer Science and Engineering, HGU
 email: chulsoo.kwak@handong.edu
-order: 1
+order: 7
 nav: false
 ---

@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: mong22910@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Dohyun_Kwak.jpg
-order: 4
+order: 6
 nav: false
 ---

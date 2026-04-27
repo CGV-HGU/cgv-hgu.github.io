@@ -58,6 +58,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
+        },{id: "nav-equipment",
+          title: "equipment",
+          description: "Lab resources including GPUs, robots, and cameras.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equipment/";
+          },
         },{id: "news-ijcas-2019-if-2-7-1-paper-accepted-2019-7-sang-jun-lee-and-sung-soo-hwang-bag-of-sampled-words-a-sampling-based-strategy-for-fast-and-accurate-visual-place-recognition-in-changing-environments-international-journal-of-control-automation-and-systems-2019",
           title: '[IJCAS 2019(IF: 2.7)] 1 PAPER ACCEPTED (2019.7) Sang Jun Lee and Sung Soo...',
           description: "",
@@ -87,6 +94,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-neural-processing-letters-2024-if-2-6-1-paper-accepted-2024-7-hye-bin-yoo-hyun-min-han-sung-soo-hwang-il-yong-chun-improving-neural-radiance-fields-using-near-surface-sampling-with-point-cloud-generation",
           title: '[Neural Processing Letters 2024(IF: 2.6)] 1 PAPER ACCEPTED(2024.7) Hye Bin Yoo, Hyun Min...',
+          description: "",
+          section: "News",},{id: "news-ijat-2025-1-paper-published-자동차-분야-권위지인-ijat에-자율주행-시스템의-장애물-회피-관련-연구가-게재되었습니다-younggon-jo-jeongmok-ha-and-sungsoo-hwang-embedding-object-avoidance-to-end-to-end-driving-systems-by-input-data-manipulation-international-journal-of-automotive-technology",
+          title: '[IJAT 2025] 1 PAPER PUBLISHED 자동차 분야 권위지인 IJAT에 자율주행 시스템의 장애물 회피...',
+          description: "",
+          section: "News",},{id: "news-ieee-aixvr-2026-1-paper-accepted-2026-1-sim-seonghwan-and-kim-yeji-and-hwang-sung-soo-stabilizing-robot-simulation-via-yolo-based-floor-flattening-and-selective-mesh-reconstruction-in-3d-gaussian-splatting",
+          title: '[IEEE AIxVR 2026] 1 PAPER ACCEPTED(2026.1) Sim, Seonghwan and Kim, Yeji and Hwang,...',
           description: "",
           section: "News",},{
       id: 'light-theme',

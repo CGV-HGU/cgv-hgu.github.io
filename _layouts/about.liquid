@@ -5,10 +5,10 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        <span style="font-weight: 600;">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        <span style="font-weight: 600;">{{ site.title }}</span>
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
@@ -16,11 +16,11 @@ layout: default
 
   <article>
     <div class="row m-0 align-items-stretch">
-      <div class="col-md-7 p-0 pr-md-4">
+      <div class="col-md-6 p-0 pr-md-4">
         <div class="clearfix">{{ content }}</div>
       </div>
 
-      <div class="col-md-5 p-0 d-flex flex-column">
+      <div class="col-md-6 p-0 d-flex flex-column">
         {% if page.profile %}
           <div class="profile-sidebar mb-4 text-center">
             {% if page.profile.image %}
@@ -30,17 +30,17 @@ layout: default
               {% else %}
                 {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
               {% endif %}
-              <img src="{{ profile_image_path | relative_url }}" class="{{ profile_image_class }} mb-2" style="max-width: 50%;" alt="{{ page.profile.image }}">
+              <img src="{{ profile_image_path | relative_url }}" class="{{ profile_image_class }} mb-2" style="max-width: 40%;" alt="{{ page.profile.image }}">
             {% endif %}
             {% if page.profile.more_info %}
-              <div class="more-info" style="font-size: 0.85rem;">{{ page.profile.more_info }}</div>
+              <div class="more-info" style="font-size: 0.8rem;">{{ page.profile.more_info }}</div>
             {% endif %}
           </div>
         {% endif %}
 
         {% if page.video %}
           <div class="video-sidebar mt-auto">
-            <div class="text-center mb-1" style="font-size: 0.85rem; color: var(--global-text-color-light);">Lab at a Glance</div>
+            <div class="text-center mb-1" style="font-size: 0.8rem; color: var(--global-text-color-light);">Lab at a Glance</div>
             <div class="video-container">
               {% include video.liquid path=page.video class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true muted=true width="100%" %}
             </div>
@@ -95,7 +95,7 @@ layout: default
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   }
   @media (max-width: 768px) {
-    .col-md-7 {
+    .col-md-6 {
       margin-bottom: 2rem;
     }
     .pr-md-4 {

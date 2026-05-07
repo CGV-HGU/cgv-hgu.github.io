@@ -25,24 +25,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Welcome to the official website of CGV Lab!**
+#### **About**
 
-### **About**
+The CGV Lab at Handong Global University develops intelligent systems to perceive and reconstruct the real world. Our research focuses on achieving reliable indoor autonomous driving through advanced perception and neural rendering technologies.
 
-CGV Lab develops innovative technologies across a variety of domains by leveraging state-of-the-art computer vision methods and graphics techniques.
+#### **Mission**
 
-### **Mission**
+- Pioneer 3D perception and neural rendering for immersive digital twins.
+- Enable high-precision indoor autonomous driving for mobile platforms.
+- Bridge research and practice through open-source and real-world deployment.
 
-- Advance real-world applications of computer vision in domains such as robotics, augmented reality, medical imaging, and multimedia.
-- Bridge fundamental research and practical deployment through open, reproducible experiments and code archives.
+#### **Research Areas**
 
-### **Research Areas**
-
-- Deep Learning for 3D Reconstruction
-- Neural Rendering & Differentiable Graphics
-- Robotics Perception & SLAM
-- Augmented and Virtual Reality
-- Medical & Industrial Imaging
+- Neural Rendering (NeRF, Gaussian Splatting)
+- Indoor Autonomous Driving (Localization, Control, Navigation)
+- Intelligent Perception (Scene Understanding, 3D Reconstruction)
+- Spatial Analysis (Optimization, Geometric Vision)
 
 ---
 

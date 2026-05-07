@@ -1,0 +1,21 @@
+- category: Robots
+  items:
+    - title: "Unitree Go2"
+      description: "State-of-the-art quadruped robot equipped with 4D LiDAR and internal AI processing for advanced mobility research."
+      quantity: 1
+      img: assets/img/equipment/go2.png
+    - title: "Omorobot R1V2"
+      description: "Autonomous mobile platform used for research in outdoor navigation and systems integration."
+      quantity: 2
+      img: assets/img/equipment/omoR1V2.png # Keeping this for now as per previous entry, but suspicious
+
+- category: Sensors
+  items:
+    - title: "Intel RealSense D455"
+      description: "High-precision RGB-D camera with integrated IMU, ideal for depth sensing and SLAM."
+      quantity: 3
+      img: assets/img/equipment/realsense.png
+    - title: "LiDAR"
+      description: "Solid-state LiDAR camera for high-accuracy depth capture in various lighting conditions."
+      quantity: 1
+      img: assets/img/equipment/lidar.png

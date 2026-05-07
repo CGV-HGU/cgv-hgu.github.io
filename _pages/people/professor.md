@@ -20,9 +20,6 @@ nav: false
         <p><strong>Phone:</strong> +82-54-260-1864</p>
         <p><strong>Fax:</strong> +82-54-260-1976</p>
         <p><strong>E-mail:</strong> <a href="mailto:sshwang@handong.edu">sshwang@handong.edu</a></p>
-        <p><strong>Address:</strong><br>
-        Ohseok Hall Room 317(B), 558 Handong-ro, Heunghae-eup, Buk-gu,<br>
-        Pohang-si, Gyeongsangbuk-do, Republic of Korea, 37554</p>
       </div>
     </div>
   </div>

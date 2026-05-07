@@ -3,19 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: Computer Graphics and Vision Lab @ <a href='https://handong.edu/'>Handong Global University</a>.
+video: assets/video/introduce_video.mp4
 
 profile:
   align: right
   image: CGV_LOGO.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ohseok Hall Room 317(B)</p>
-    <p>& Newton Hall Room 410</p>
-    <p>558 Handong-ro</p>
-    <p>Heunghae-eup</p>
-    <p>Buk-gu, Pohang-si</p>
-    <p>Gyeongsangbuk-do</p>
-    <p>Republic of Korea, 37554</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

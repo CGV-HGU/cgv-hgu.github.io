@@ -1,6 +1,6 @@
 ---
 layout: page
-member_name: Hyeonseo Lee
+member_name: Hyunseo Lee
 period: 2026 – present
 degree: M.S
 education: |

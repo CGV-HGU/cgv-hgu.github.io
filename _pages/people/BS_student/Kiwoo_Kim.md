@@ -6,7 +6,7 @@ degree: B.S
 education: B.S in Computer Science and Engineering, HGU
 email: 22200816@handong.ac.kr
 profile:
-  image: /assets/img/members/BS/Hajun_Park.jpg
+  image: /assets/img/members/BS/Kiwoo_Kim.jpg
 order: 16
 nav: false
 ---

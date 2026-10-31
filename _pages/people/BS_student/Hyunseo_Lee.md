@@ -6,7 +6,7 @@ degree: B.S
 education: B.S in Computer Science and Engineering, HGU
 email: hslee@handong.ac.kr
 profile:
-  image: /assets/img/members/BS/Hyunseo_Lee.jpg
+  image: /assets/img/members/MS/Hyunseo_Lee.jpg
 order: 2
 nav: false
 ---

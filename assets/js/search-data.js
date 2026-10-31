@@ -101,6 +101,9 @@ ninja.data = [{
           section: "News",},{id: "news-ieee-aixvr-2026-1-paper-accepted-2026-1-sim-seonghwan-and-kim-yeji-and-hwang-sung-soo-stabilizing-robot-simulation-via-yolo-based-floor-flattening-and-selective-mesh-reconstruction-in-3d-gaussian-splatting",
           title: '[IEEE AIxVR 2026] 1 PAPER ACCEPTED(2026.1) Sim, Seonghwan and Kim, Yeji and Hwang,...',
           description: "",
+          section: "News",},{id: "news-journal-of-forensic-sciences-2026-1-paper-accepted-2026-4-kim-sung-min-and-lee-chang-ha-and-ga-briel-and-hwang-sung-soo-single-view-object-height-estimation-using-ground-point-detection",
+          title: '[Journal of Forensic Sciences 2026] 1 PAPER ACCEPTED(2026.4) Kim, Sung Min and Lee,...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

@@ -10,7 +10,7 @@ education: |
   Mar 2021 – Aug 2026 
 email: iamhslee@handong.ac.kr
 profile:
-  image: /assets/img/members/MS/Hyeonseo_Lee.jpg
+  image: /assets/img/members/MS/Hyunseo_Lee.jpg
 order: 4
 nav: false
 ---

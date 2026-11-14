@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Computer Graphics and Vision Lab @ <a href='https://handong.edu/'>Handong Global University</a>.
-video: assets/video/introduce_video.mp4
+video: assets/video/homepage_introduce.mp4
 
 profile:
   align: right

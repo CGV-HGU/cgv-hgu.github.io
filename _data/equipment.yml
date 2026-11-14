@@ -8,6 +8,10 @@
       description: "Autonomous mobile platform used for research in outdoor navigation and systems integration."
       quantity: 2
       img: assets/img/equipment/omoR1V2.png # Keeping this for now as per previous entry, but suspicious
+    - title: "PiPER Robotic Arm"
+      description: "Lightweight 6-DoF robotic arm with integrated controller, ideal for manipulation and robotics research"
+      quantity: 1
+      img: assets/img/equipment/agilex-piper.jpg # Keeping this for now as per previous entry, but suspicious
 
 - category: Sensors
   items:
@@ -19,3 +23,7 @@
       description: "Solid-state LiDAR camera for high-accuracy depth capture in various lighting conditions."
       quantity: 1
       img: assets/img/equipment/lidar.png
+    - title: "D435i"
+      description: "Wide-FOV stereo RGB-D camera with built-in IMU, ideal for depth sensing and SLAM."
+      quantity: 1
+      img: assets/img/equipment/d435i.jpg

@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: sehyunkim0125@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Sehyeon_Kim.jpg
-order: 16
+order: 8
 nav: false
 ---

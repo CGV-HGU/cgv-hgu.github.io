@@ -7,6 +7,6 @@ education: B.S in Computer Science and Engineering, HGU
 email: dughtndk0824@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Hyeonsu_Park.png
-order: 14
+order: 5
 nav: false
 ---

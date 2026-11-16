@@ -8,7 +8,7 @@ education:
   Mar 2026 – present  
   B.S in Computer Science and Engineering, HGU
   Mar 2021 - Feb 2026
-email: hoanshim01@handong.ac.kr
+email: tjdghks129@handong.ac.kr
 profile:
   image: /assets/img/members/BS/Seonghwan_Shim.jpg
 order: 2

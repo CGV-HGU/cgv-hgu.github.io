@@ -8,7 +8,7 @@ education: |
   Sep 2025 – present 
   B.S in Computer Science and Engineering, HGU
   Mar 2018 – Aug 2025 
-email: hyeonwoo.gu@handong.edu
+email: 21800030@handong.ac.kr
 profile:
   image: /assets/img/members/MS/Hyeonwoo_Gu.jpg
 order: 1

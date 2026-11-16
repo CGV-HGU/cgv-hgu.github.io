@@ -8,7 +8,7 @@ education: |
   Sep 2025 – present  
   B.S in Computer Science and Engineering, HGU
   Mar 2018 – Aug 2025 
-email: gunmin.yu@handong.edu
+email: gunminy@handong.ac.kr
 profile:
   image: /assets/img/members/MS/Gunmin_Yu.jpg
 order: 1

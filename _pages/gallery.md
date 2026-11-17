@@ -9,6 +9,14 @@ nav_order: 7
 
 <div class="gallery-section">
 
+<!-- 2026 -->
+<h2 class="gallery-year">2026</h2>
+<div class="gallery-event">
+  <h3 class="gallery-title">2026 Professor's Birthday Celebration</h3>
+  <img src="/assets/img/gallery/2026_professorBD.jpg" alt="2026 Professor's Birthday Celebration" class="gallery-photo">
+</div>
+<hr>
+
 <!-- 2025 -->
 <h2 class="gallery-year">2025</h2>
 <div class="gallery-event">

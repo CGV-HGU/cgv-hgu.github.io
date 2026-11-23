@@ -12,6 +12,10 @@
       description: "Lightweight 6-DoF robotic arm with integrated controller, ideal for manipulation and robotics research"
       quantity: 1
       img: assets/img/equipment/agilex-piper.jpg # Keeping this for now as per previous entry, but suspicious
+    - title: "Unitree As2"
+      description: "Compact industrial-grade quadruped robot with integrated LiDAR, ideal for agile locomotion and navigation."
+      quantity: 1
+      img: assets/img/equipment/AS2.png # Keeping this for now as per previous entry, but suspicious
 
 - category: Sensors
   items:

@@ -1,4 +1,3 @@
-
 ---
 layout: page
 permalink: /publications/
@@ -64,6 +63,7 @@ nav_order: 5
   function scrollToSection(id) {
     const element = document.getElementById(id);
     if (element) {
+      // Offset to account for the sticky header (adjust 80 if needed)
       const offset = 80;
       const bodyRect = document.body.getBoundingClientRect().top;
       const elementRect = element.getBoundingClientRect().top;
@@ -80,32 +80,27 @@ nav_order: 5
 
 <style>
   /* Sidebar positioning */
-  #toc-sidebar .sticky-top {
+  .sticky-top {
     top: 80px;
     height: calc(100vh - 80px);
     overflow-y: auto;
   }
-
-  /* Sidebar Navigation - Light/Dark Mode */
-  #toc-sidebar .nav-link {
+  .nav-link {
     cursor: pointer;
-    color: var(--global-text-color) !important;
-    padding-left: 0;
+    color: black !important;
+    padding-left: 0; /* Pull text to the left edge of the column */
   }
-
-  #toc-sidebar .nav-link:hover {
+  .nav-link:hover {
     color: var(--global-theme-color) !important;
     font-weight: bold;
   }
-
   /* Responsive adjustment for small screens */
   @media (max-width: 576px) {
-    #toc-sidebar .sticky-top {
+    .sticky-top {
       position: static;
       height: auto;
     }
-
-    #toc-sidebar .nav-link {
+    .nav-link {
       padding-left: 1rem;
     }
   }

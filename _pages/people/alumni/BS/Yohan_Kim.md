@@ -1,0 +1,12 @@
+---
+layout: page
+member_name: Yohan Kim
+period: 2021 – present
+degree: B.S
+education: B.S in Computer Science and Engineering, HGU
+email: rladygks0412@handong.ac.kr
+profile:
+  image: /assets/img/members/BS/Dohyun_Kwak.jpg
+order: 1
+nav: false
+---
